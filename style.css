@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Poppins', Sans-Serif;
+  text-decoration: none;
+}
+
+.navbar {
+  border: 0.1px solid white;
+  box-shadow: 0 0 5px #000;
+}
+
+.isicontent {
+  background-color: #212121;
+}
+
+.car {
+  margin-top: 60px;
+}
+
+#product {
+  margin-top: 2px;
+}
+
+#product h3 {
+  background-color: #58589a;
+  border: 0.1px solid white;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.nav-tabs .nav-link {
+  color: white;
+  border: 1px solid white;
+}
+
+.nav-tabs{
+  margin-top: 15px;
+}
+
+#payment h3 {
+  background-color: #58589a;
+  border: 0.1px solid white;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#payment .pay {
+  background-color: white;
+}
+
+#testimoni h3 {
+  background-color: #58589a;
+  border: 0.1px solid white;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.isicontent {
+  padding-bottom: 50px;
+}
+
+footer {
+  background-color: black;
+}
+
+footer .social {
+  padding-top: 10px;
+}
